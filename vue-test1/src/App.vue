@@ -2,7 +2,6 @@
   <div id="app">
     <img src="./assets/logo.png">
     测试Git
-    测试给i他
     <router-view/>
   </div>
 </template>
