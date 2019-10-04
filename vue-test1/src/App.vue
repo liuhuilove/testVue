@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    测试Git
     <router-view/>
   </div>
 </template>
